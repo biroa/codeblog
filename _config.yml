@@ -1,0 +1,31 @@
+# Site settings
+title: "Adam Biro"
+email: adam.biro@gmail.com
+description: "Personal Webcard"
+baseurl: ""
+url: "http://www.adambiro.eu/"
+title_description: "PHP & WEB Developer"
+title_image: "https://s.gravatar.com/avatar/44de4373202ea6b787f1a3b2a1b0a69e?s=80"
+google_analytics: "UA-57709003-1"
+disqus_account: "adambiro"
+github_repository: https://github.com/jacobtomlinson/carte-noire
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 10
+
+# Social usernames/URLs
+twitter_username: adambiro_com
+github_username:  biroa
+linkedin_link: http://ie.linkedin.com/in/biroadam
+google_plus_link: #
+stackoverflow_link: #
+
+# Footer
+footer_left: "Coppyright @ Adam Biro"
+footer_right: ""
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
