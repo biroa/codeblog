@@ -4,6 +4,7 @@ title:      Learn JIRA Software
 date:       2015-10-28 12:31:19
 summary:    The #1 software development tool used by agile teams.
 categories: jekyll
+main_category: software
 thumbnail: film
 tags:
  - jira, agile, software development

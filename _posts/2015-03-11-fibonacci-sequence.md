@@ -1,12 +1,13 @@
 ---
 layout:     post
-title:      Fibonacci sequence (part 1) 
+title:      Fibonacci sequence in php (part 1)
 date:       2015-11-03 12:00:00
 summary:    
-categories: jekyll
+categories: algorithms
+main_category: php
 thumbnail: film
 tags:
- - algorithms, fibonacci sequence, software development
+ - algorithms, fibonacci sequence, php, coding
 ---
 The __Fibonacci__ sequence is named after Italian mathematician [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number "Fibonacci"). 
 His *1202 book Liber Abaci* introduced the sequence to Western European mathematics, although the sequence had been described earlier in Indian mathematics.
