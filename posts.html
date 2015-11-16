@@ -20,6 +20,7 @@ layout: default
       {% endif %}
 
           <li>
+            <span class="mainCategory">{{post.main_category}}:</span>
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </li>
       {% if forloop.last %}

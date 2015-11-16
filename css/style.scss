@@ -71,6 +71,11 @@ ul {
     list-style-type: none;
 }
 
+.mainCategory{
+	color:$yellow;
+	text-transform: uppercase;
+}
+
 ul.references{
   a,a:active{
       color: $yellow;
