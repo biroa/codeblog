@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The Site has launched
-date:       2015-10-27 12:31:19
+date:       2015-10-27
 summary:    The site where stuff will be published.
 categories: jekyll
 main_category: it

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Fibonacci sequence in php (part 1)
-date:       2015-11-03 12:00:00
+date:       2015-11-03
 summary:    
 categories: algorithms
 main_category: php
