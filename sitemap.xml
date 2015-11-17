@@ -5,6 +5,7 @@
 {% for post in site.posts %}
     <url>
         <loc>http://adambiro.eu{{ post.url | remove: 'index.html' }}</loc>
+	<lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
     </url>
     {% endfor %}
 
