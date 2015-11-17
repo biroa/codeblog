@@ -11,6 +11,5 @@ tags:
 ---
 Last time we checked the implementation of the [__Fibonacci__ sequence with for loops](http://adambiro.eu/algorithms/2015/11/03/fibonacci-sequence/ "Fibonacci").
 A this time I would like to present the recursive approach for the issue.
-I used two functions caller and fibonacciRecursive.
 
-<script src="https://gist.github.com/04f4d4b48c21a2447bff.git"></script>
+<script src="https://gist.github.com/biroa/04f4d4b48c21a2447bff.js"></script>

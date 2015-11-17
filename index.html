@@ -31,14 +31,17 @@ layout: default
                     <li>
                         <span class="mainCategory">{{post.main_category}}:</span>
                         <a href="{{ post.url | prepend: site.baseurl }}">{{post.title }}</a>
-                        <small class="hidden-xs">{{ post.date | date: "%B %-d,%Y" }}
-                        </small>
+                        <ul>
+                            <li>
+                                <small class="hidden-xs">{{ post.date | date: "%B %-d,%Y" }}</small>
+                            </li>
+                        </ul>
                     </li>
 
                     {% endfor %}
                     <li>
                         <small>
-			    <i><a href="{{ site.baseurl }}/posts/">more...</a></i>
+                            <i><a href="{{ site.baseurl }}/posts/">more...</a></i>
                         </small>
                     </li>
                 </ul>
