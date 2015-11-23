@@ -28,6 +28,7 @@ $medium-purple:  #480048;
 $regular-purple: #601848;
 $red:            #C04848;
 $orange:         #F07241;
+$grey: 			 #79796b;
 
 /* Responsive sizes */
 $screen-sm-min: 768px;
@@ -271,8 +272,8 @@ ul.references{
 	}
 
 	.author-header {
-		font-family: 'Montserrat', sans-serif;
-		color: $yellow;
+		font-family: 'Audiowide', cursive;
+		color: $grey;
 		margin-top: 0px;
 		padding-top: 15px;
 		font-size: 30px;
