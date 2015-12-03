@@ -177,6 +177,24 @@ ul.references{
       height: 100%;
     }
   }
+	.title-header {
+		font-family: 'Audiowide', cursive;
+		color: $white;
+		margin-top: 0px;
+		padding-top: 15px;
+		font-size: 30px;
+		text-align: center!important;
+
+		@media (min-width: $screen-sm-min) {
+			font-size: 33px;
+			margin-top: 0px;
+		}
+
+		@media (min-width: $screen-md-min) {
+			font-size: 41px;
+			margin-top: -20px;
+		}
+	}
 }
 
 #my-menu {
@@ -293,6 +311,7 @@ ul.references{
 			margin-top: -20px;
 		}
 	}
+
 
 	.main-author-header {
 		font-family: 'Audiowide', cursive;
@@ -612,7 +631,7 @@ ul.references{
 		}
 
 		.content {
-			font-size: 18px;
+			font-size: 15px;
 			line-height: 170%;
 			padding-left: 15px;
 			padding-right: 15px;
@@ -620,19 +639,20 @@ ul.references{
 			padding-bottom: 10px;
 
 			@media (min-width: $screen-sm-min) {
-				font-size: 24px;
+				font-size: 20px;
 				padding-left: 30px;
 				padding-right: 30px;
 				padding-top: 40px;
 				padding-bottom: 20px;
 			}
 
+
 			img {
 				max-width: 100%;
 				padding: 10px;
-    		display: block;
-    		margin-left: auto;
-    		margin-right: auto
+				display: block;
+				margin-left: auto;
+				margin-right: auto
 			}
 
 			li {
