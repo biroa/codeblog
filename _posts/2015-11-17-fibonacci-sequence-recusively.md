@@ -5,7 +5,7 @@ date:       2015-11-17 10:32:00
 summary:    
 categories: algorithms
 main_category: php
-thumbnail: film
+thumbnail: console
 tags:
  - algorithms, fibonacci sequence, php, coding
 ---
